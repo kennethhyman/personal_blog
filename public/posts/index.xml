@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on khyman.blog</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on khyman.blog</description>
+    <title>Posts on Thoughts and projects</title>
+    <link>https://blog.khyman.dev/posts/</link>
+    <description>Recent content in Posts on Thoughts and projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Jan 2023 18:36:13 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 18:36:13 -0500</lastBuildDate><atom:link href="https://blog.khyman.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello world</title>
-      <link>http://example.org/posts/hello_world/</link>
+      <link>https://blog.khyman.dev/posts/hello_world/</link>
       <pubDate>Sun, 08 Jan 2023 18:36:13 -0500</pubDate>
       
-      <guid>http://example.org/posts/hello_world/</guid>
+      <guid>https://blog.khyman.dev/posts/hello_world/</guid>
       <description>Starting a personal blog Well, this is it; I&amp;rsquo;ve finally broken down, or perhaps just found the motivation, to start my personal blog. Recently, I&amp;rsquo;ve been taking more time to reflect on my life, happiness, career, and just general philosophy and have been looking for a void into which I could post the more insightful or better thought out ones. Because I don&amp;rsquo;t like the idea of picking up any social media habits (even the social blogging platforms seem like more trouble than value) and I&amp;rsquo;m literally a software engineer by trade, having mostly worked on web services, I figure I have no excuse not to make use of my abilities and self publish my own blog.</description>
     </item>
     
